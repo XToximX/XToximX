@@ -1,9 +1,13 @@
 ## Hi, everyone
-___
 I'm Tomek, a game dev student from Poland.
 
 I love developing and playing games like any other guy.
 
+Stuff I do in life:
+- 🎮 Playing games
+- 💻 Making games
+- 🧗‍♂️ Climbing plastic rocks
+- ⛰ Climbing mountains
 <!--
 **XToximX/XToximX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
